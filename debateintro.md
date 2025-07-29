@@ -1,5 +1,5 @@
 ---
-title: What is Debate?
+title: Questions & Answers
 layout: home
 ---
 
