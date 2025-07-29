@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-
+Welcome to the Debate Dragons homepage!!! This is not finished come back later for moreeeee :3
 
 ----
 
