@@ -1,7 +1,9 @@
 ---
-title: How to Debate!
+title: Why Debate? Q&A
 layout: home
 ---
+
+
 
 ----
 
