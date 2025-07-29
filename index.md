@@ -1,5 +1,5 @@
 ---
-title: Why Debate? Q&A
+title: Home
 layout: home
 ---
 
