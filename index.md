@@ -11,7 +11,7 @@ This site is meant to introduce readers to our club and the game of parliamentar
 ----
 
 ![Batey](/debate-dragons/assets/images/batey.webp)
-
+[^1] Batey the Lizard by @reners.l on Instagram.
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
