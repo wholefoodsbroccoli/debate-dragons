@@ -5,6 +5,8 @@ layout: home
 
 Welcome to the Debate Dragons homepage!!! This is not finished come back later for moreeeee :3
 
+![Batey](/assets/images/batey.webp)
+
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
