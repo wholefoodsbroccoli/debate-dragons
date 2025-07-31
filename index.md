@@ -4,9 +4,9 @@ layout: home
 ---
 
 ## Debate Dragons
-Welcome to our debate club! :3
+Welcome to our debate club! This site is meant to introduce readers to our club and the game of parliamentary debate. It aims to show that debate can be fun, surprisingly funny, and not as scary as it looks! 
 
-This site is meant to introduce readers to our club and the game of parliamentary debate. It aims to show that debate can be fun, surprisingly funny, and not as scary as it looks! Inside are assorted thoughts for the curious, beginner resources for the ambitious, and information about our activities for those excited to join. 
+Inside are assorted thoughts for the curious, beginner resources for the ambitious, and information about our activities for those excited to join. 
 
 ----
 
