@@ -8,11 +8,15 @@ Welcome to our debate club! :3
 
 This site is meant to introduce readers to our club and the game of parliamentary debate. It aims to show that debate can be fun, surprisingly funny, and not as scary as it looks! 
 
+## Why Debate?
+Debate can be an incredibly rewarding activity, in that it gives back what you choose to put in. In my experience, it attracts people who are curious, quirky, and have lots of ideas they can share with the world - even if they don't yet have the confidence or structure
+
 ----
 
 ![Batey](/debate-dragons/assets/images/batey.webp)
 
 [^1]: Batey the Lizard by @reners.l on Instagram.
+
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
