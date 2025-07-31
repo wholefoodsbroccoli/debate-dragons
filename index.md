@@ -5,7 +5,7 @@ layout: home
 
 Welcome to the Debate Dragons homepage!!! This is not finished come back later for moreeeee :3
 
-![Batey](/assets/images/batey.webp)
+![Batey](/debate-dragons/assets/images/batey.webp)
 
 ----
 
