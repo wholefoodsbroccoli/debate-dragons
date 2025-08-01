@@ -14,10 +14,12 @@ Debate is an incredibly rewarding activity, in that it gives back the effort you
 <li>Crave self improvement / the grind</li>
 <li>Want to (sometimes) fly abroad to tournaments for free!!!</li>
 
-## The Community
-When people picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives.
+## I don't want to argue or get too heated...
+When people picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives. This is especially the case, because you do not get to choose the side you debate on.
 
-Debaters know intimately how scary public speaking can be, how much courage it takes to put one's self out there, and the potential for anxiety (and fun!) a debate can cause. The people in our club take great responsibility in making sure everyone is comfortable and having fun playing, what is essentially a game. 
+Debaters know intimately how scary public speaking can be, how much courage it takes to put one's self out there, and the potential for anxiety (and fun!) a debate can cause. The people in our club take great responsibility in making sure everyone is comfortable and having fun playing, what is essentially a game. We take these skills into the real world not to berate or be forceful, but to 
+
+## I'm not sure I'll fit in...
 
 In Batey's experience, the people actually attracted to debate tend to be... a bunch of nerds! People who are quirky, funny, a little bit crazy, incredibly diverse, and have tons of ideas they can share with the world. Even if they don't yet have the confidence or structure to deliver them the way they'd like. 
 
