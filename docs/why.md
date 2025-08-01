@@ -5,7 +5,9 @@ nav_order: 2
 ---
 
 # Why Debate?
-Batey loves debate! It is an incredibly rewarding activity, in that debate gives back the effort you choose to share with it. Consider trying debate if you:
+This section is meant for people who are on the fence about debate, or are thinking about joining but have concerns. We aim to address those concerns directly here.
+
+That said, Batey loves debate, and wants to show how much fun it can be too! It is an incredibly rewarding activity, in that debate gives back the effort you choose to share with it. Consider trying debate if you:
 
 <li>Want to make new friends</li>
 <li>Love learning new things about the world</li>
@@ -26,11 +28,13 @@ That's not to say there isn't room for heat in debate club! It's not unusual to 
 
 From Batey's experience, the people actually attracted to debate tend to be... a bunch of nerds! People who are quirky, funny, a little bit crazy, incredibly diverse, with heads full of ideas they want to share with the world. 
 
-They come to the club seeking things like knowledge, speaking confidence, structure for their jumbled thoughts, or even just a place to belong and feel heard - things our club is happy to help provide. They're some of the most interesting people you'll ever meet, with some of the biggest hearts you'll ever see. Even if you're not so interested in debate, Batey strongly suggests checking out the club for its community - ~~we don't bite probably~~![^1]
+They come to the club seeking things like knowledge, speaking confidence, structure for their jumbled thoughts, or even just a place to belong and feel heard - things our club is happy to help provide. They're some of the most interesting people you'll ever meet, with some of the biggest hearts you'll ever see. Even if you're not so interested in debate, Batey strongly suggests checking out the club for its community - ~~we don't bite probablyyy~~[^1]
 
-If you're reading this and you feel like you might be one of us,
+If you've read this far, you might 
 
 ## I don't want to sound stupid in front of other people.
+
+
 
 ## It sounds kind of cool, but I'm too lazy xdddd
 
