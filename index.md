@@ -15,7 +15,7 @@ Debate can be an incredibly rewarding activity, in that it gives back what you c
 
 ![Batey](/debate-dragons/assets/images/batey.webp)[^1]
 
-[^1]: Batey the Lizard by @reners.l on Instagram.
+<small>Batey the Lizard by @reners.l on Instagram.</small>
 
 ----
 
