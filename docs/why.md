@@ -35,4 +35,4 @@ If you're reading this and you feel like you might be one of us,
 
 ## Okay okay, you got me! How can I participate if I'm interested?
 
-[^1]: There are surprisingly many instances of our club members getting into relationships if it's a selling point???
+[^1]: There are surprisingly many instances of our club members dating??? If that's a selling point???
