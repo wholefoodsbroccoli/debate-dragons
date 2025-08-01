@@ -12,7 +12,7 @@ This site is meant to introduce readers to our club and the game of parliamentar
 
 ![Batey](/debate-dragons/assets/images/batey.webp)
 
-<small>Batey the Lizard by @reners.l on Instagram.</small>
+<small>Batey the Monitor Lizard by @reners.l on Instagram.</small>
 
 ----
 
