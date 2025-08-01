@@ -30,14 +30,24 @@ From Batey's experience, the people actually attracted to debate tend to be... a
 
 They come to the club seeking things like knowledge, speaking confidence, structure for their jumbled thoughts, or even just a place to belong and feel heard - things our club is happy to help provide. They're some of the most interesting people you'll ever meet, with some of the biggest hearts you'll ever see. Even if you're not so interested in debate, Batey strongly suggests checking out the club for its community - ~~we don't bite probablyyy~~[^1]
 
-If you've read this far, you might 
+If you've read this far, you might be the type of person we're describing. We'd love to meet you!
 
 ## I don't want to sound stupid in front of other people.
 
+This problem doesn't go away. It happens to people who have debated for many years. But it's okay because that never stops us from trying! And everyone's free to just listen in, and come and go as they please in the session.
 
+Also - you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
+
+And even if you don't like the way you speak - you sure won't feel like that for long! We've got lessons and drills and personalized feedback from experienced members to help you train your speaking and thinking skills at your own pace - all for free! It's honestly a really sweet deal.
 
 ## It sounds kind of cool, but I'm too lazy xdddd
 
+That's mood. But we can't help you there! Some people want something fun to do after class. It's a lot of work to become super good at debate yes, but you don't have to do that to be part of our club, or enjoy debating itself, or reap the rewards of the community. 
+
+Getting better at debate is great! It brings structure. It's addicting. People like the grind. You'll feel yourself improving and becoming smarter and funnier. You get to actually use the information you learn in school instead of memorizing for the test. Batey has probably learned more for the sake of debate than all uni classes put together.
+
 ## Okay okay, you got me! How can I participate if I'm interested?
 
+Debate Club is a uniquely active club in that we meet multiple times a week - usually once on Tuesday, and once on Wednesday. Come drop by and say hello! We have events like collaborations with Film Club, we go to tournaments, and have our Debate Showdown once a term, open for all skill levels! We also have a Discord where anybody can message or chat, and an Instagram where there are mini-activities and prizes.
+ 
 [^1]: There are surprisingly many instances of our club members dating??? If that's a selling point???
