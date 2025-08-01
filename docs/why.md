@@ -15,3 +15,4 @@ Debate is an incredibly rewarding activity, in that it gives back the effort you
 <li>Want to (sometimes) fly abroad to tournaments for free!!!</li>
 
 ## The Community
+
