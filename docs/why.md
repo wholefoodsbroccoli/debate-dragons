@@ -27,38 +27,12 @@ From Batey's experience, the people actually attracted to debate tend to be... a
 
 They come to the club seeking things like knowledge, speaking confidence, structure for their jumbled thoughts, or even just a place to belong and feel heard - things our club is happy to help provide. They're some of the most interesting people you'll ever meet, with some of the biggest hearts you'll ever see. Even if you're not so interested in debate, Batey strongly suggests checking out the club for its community - ~~we don't bite probably~~![^1]
 
-If you're reading this and you feel like you might be one of us
+If you're reading this and you feel like you might be one of us,
 
+## I don't want to sound stupid in front of other people...
 
+## It sounds kind of cool, but I'm too lazy xdddd
 
-
-
-## Questions & Answers
-
-**Debating is too hard! I won't be good at it.**
-
-Nooo that's what we're here for! We can help you get better!!
-
-**I don't want to get too heated.**
-
-It's okay we're friendlyy and you don't debate your real sidee and it's mostly a game to score points
-
-**I'm too shy to debate. Can I just watch?**
-
-Of course! Everyone starts shy but public speaking is really fun and you can get betterrr
-
-**I don't want to sound stupid in front of other people.**
-
-Aw... the community is really nice and our sessions are geared for people of all skill levels - our job is to make you comfy don't feel sad!!
-
-**It sounds kind of cool, but I'm too lazy xddd**
-
-That's fairrr it's relatable - but debate is super cool and you get to make friends and compete and go abroad!!
-
-**This sounds great! How can I join the club if I'm interested?**
-
-----
-
-Yayy!! There are discord meets and channels to talk to - and you can DM any of our members for questions and info! Hope to see you there :3
+## Okay okay, you got me! How can I participate if I'm interested?
 
 [^1]: There are surprisingly many instances of our club members getting into relationships if it's a selling point???
