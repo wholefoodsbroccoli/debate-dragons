@@ -4,7 +4,7 @@ layout: home
 ---
 
 # Why Debate?
-Batey loves debate! It is an incredibly rewarding activity, in that debate gives back the effort you choose to share with it. Consider debate if you:
+Batey loves debate! It is an incredibly rewarding activity, in that debate gives back the effort you choose to share with it. Consider trying debate if you:
 
 <li>Want to make new friends</li>
 <li>Love learning new things about the world</li>
