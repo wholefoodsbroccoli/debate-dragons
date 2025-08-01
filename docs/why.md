@@ -1,6 +1,7 @@
 ---
 title: Why Debate?
 layout: home
+nav_order: 2
 ---
 
 # Why Debate?
