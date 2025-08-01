@@ -61,4 +61,4 @@ That's fairrr it's relatable - but debate is super cool and you get to make frie
 
 Yayy!! There are discord meets and channels to talk to - and you can DM any of our members for questions and info! Hope to see you there :3
 
-[^1]: There are surprisingly many instances of our club members getting into relationships if that's a selling point???
+[^1]: There are surprisingly many instances of our club members getting into relationships if it's a selling point???
