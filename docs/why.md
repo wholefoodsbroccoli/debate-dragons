@@ -23,9 +23,11 @@ That's not to say there isn't room for heat in debate club! It's not unusual to 
 
 ## I'm not sure I'll fit in...
 
-In Batey's experience, the people actually attracted to debate tend to be... a bunch of nerds! People who are quirky, funny, a little bit crazy, incredibly diverse, and have tons of ideas they can share with the world. Even if they don't yet have the confidence or structure to deliver them the way they'd like. 
+From Batey's experience, the people actually attracted to debate tend to be... a bunch of nerds! People who are quirky, funny, a little bit crazy, incredibly diverse, with heads full of ideas they want to share with the world. 
 
-They are some of the most interesting people you'll ever meet, with the biggest hearts you'll ever see. If you're reading this and you feel like you might be one of us, Batey strongly suggests
+They come to the club seeking things like knowledge, speaking confidence, structure for their jumbled thoughts, or even just a place to belong and feel heard - things our club is happy to help provide. They're some of the most interesting people you'll ever meet, with some of the biggest hearts you'll ever see. Even if you're not so interested in debate, Batey strongly suggests checking out the club for its community - ~~we don't bite probably~~!^[There are surprisingly many instances of our club members getting into relationships. If that's a selling point I guess???]
+
+If you're reading this and you feel like you might be one of us, Batey strongly suggests
 
 
 
@@ -54,5 +56,7 @@ Aw... the community is really nice and our sessions are geared for people of all
 That's fairrr it's relatable - but debate is super cool and you get to make friends and compete and go abroad!!
 
 **This sounds great! How can I join the club if I'm interested?**
+
+----
 
 Yayy!! There are discord meets and channels to talk to - and you can DM any of our members for questions and info! Hope to see you there :3
