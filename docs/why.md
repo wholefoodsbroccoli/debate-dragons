@@ -29,7 +29,7 @@ They come to the club seeking things like knowledge, speaking confidence, struct
 
 If you're reading this and you feel like you might be one of us,
 
-## I don't want to sound stupid in front of other people...
+## I don't want to sound stupid in front of other people.
 
 ## It sounds kind of cool, but I'm too lazy xdddd
 
