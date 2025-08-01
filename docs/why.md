@@ -15,7 +15,7 @@ Batey loves debate! It is an incredibly rewarding activity, in that debate gives
 <li>Want to (sometimes) fly abroad to tournaments for free!!!</li>
 
 ## I don't want to get heated...
-When people picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives. This is especially the case, as you do not get to choose the side you debate in a round.
+When many picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives. This is especially the case, as you do not get to choose the side you debate in a round.
 
 Batey knows intimately how scary public speaking can be, how much courage it takes to put one's self out there, and the potential for anxiety (and fun!) a debate can create. The people in our club take great responsibility in making sure everyone is comfortable and having fun playing, what is essentially a game. We take these skills into the real world not to berate or be forceful, but to be mindful of the power words have on ourselves and each other.
 
