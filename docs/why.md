@@ -15,7 +15,9 @@ Debate is an incredibly rewarding activity, in that it gives back the effort you
 <li>Want to (sometimes) fly abroad to tournaments for free!!!</li>
 
 ## The Community
-When people picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives. 
+When people picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives. Debaters know how scary public speaking is, and take great care in making sure everyone is comfortable and having fun playing - what is essentially a game.
+
+In Batey's experience, the people who are attracted to debate tend to be... a bunch of nerds! People who are quirky, smart, funny, incredibly diverse - and have tons of ideas they can share with the world, even if they don't yet have the confidence or structure to deliver them the way they'd like.
 
 
 
