@@ -4,7 +4,7 @@ layout: home
 ---
 
 # Why Debate?
-Debate is an incredibly rewarding activity, in that it gives back the effort you share with it. Consider debate if you:
+Batey loves debate! It is an incredibly rewarding activity, in that debate gives back the effort you choose to share with it. Consider debate if you:
 
 <li>Want to make new friends</li>
 <li>Love learning new things about the world</li>
@@ -17,9 +17,9 @@ Debate is an incredibly rewarding activity, in that it gives back the effort you
 ## I don't want to get heated...
 When people picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives. This is especially the case, as you do not get to choose the side you debate in a round.
 
-Debaters know intimately how scary public speaking can be, how much courage it takes to put one's self out there, and the potential for anxiety (and fun!) a debate can cause. The people in our club take great responsibility in making sure everyone is comfortable and having fun playing, what is essentially a game. We take these skills into the real world not to berate or be forceful, but to be mindful of the power words have on ourselves and each other.
+Batey knows intimately how scary public speaking can be, how much courage it takes to put one's self out there, and the potential for anxiety (and fun!) a debate can create. The people in our club take great responsibility in making sure everyone is comfortable and having fun playing, what is essentially a game. We take these skills into the real world not to berate or be forceful, but to be mindful of the power words have on ourselves and each other.
 
-That's not to say there isn't room for passion in debate club! 
+That's not to say there isn't room for heat in debate club! It's not unusual to hear quick quips, funny soundbites, or the occasional trash talk when we really get to know each other. There are plenty of ways for a passionate soul to spit fire, and even thrive in a place like ours - but first and foremost comes everyone's safety and well-being. That's a Batey promise.
 
 ## I'm not sure I'll fit in...
 
