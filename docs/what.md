@@ -1,6 +1,7 @@
 ---
 title: What's in a Debate?
 layout: home
+nav_order: 3
 ---
 
 # What's in a Debate?
