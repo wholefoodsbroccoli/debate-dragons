@@ -17,14 +17,16 @@ Each motion in the debate has a **keyword.** It informs the teams of the specifi
 
 This House Would
   -In "This House Would ban all drugs," Government
-This House Prefers X to Y
 This House Believes That 
+  -Government believes the statement is true. Opposition believes the statement is false.
 
 ### The Veto
 Some debate formats let teams pick the motion they want to debate. During topic selection, a list of three motions will be displayed, and each team has to pick a motion to veto, and a motion they prefer. If it's a tie (where both teams veto the same motion, but have different preferences), they flip a coin to decide which motion to do.
 
 ## Prep Time
 Each team has either 15 or 30 minutes to prepare, depending on the format. They have private time to talk about the debate motion. Typically, the Government team stays in the debate room, while the Opposition team prepares outside.
+
+Debaters are never allowed to use the internet or AI to help them prepare. In physical tournaments, even paper notes are generally required for this reason. 
 
 ## Giving Speeches
 Each team takes turns sending members to give a speech of up to 7 minutes of uninterrupted speaking time. The Government team goes first, and they argue in favor of the motion. The Opposition argues against. It zigzags back and forth like this helpful diagram.
@@ -35,6 +37,7 @@ Opposing speakers are allowed to offer a Point of Information to a speaker on st
 What does the judge do? 
 
 ## After the Debate
+The teams shake hands, and can stay to ask the judges for personal feedback and questions about the round. The judge will give a few tips for how to improve next time, and then everybody leaves the debate room!
 
 ## AP vs. BP
 Asian Parliamentary is a team vs. team match. British Parliamentary is a battle royale.
