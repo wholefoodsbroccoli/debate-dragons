@@ -26,7 +26,7 @@ This House Believes That
 
 
 ### The Veto
-Some debate formats let teams pick the motion they want to debate. During topic selection, a list of three motions will be displayed, and each team has to pick a motion to veto, and a motion they prefer. If it's a tie (where both teams veto the same motion, but have different preferences), they flip a coin to decide which motion to do.
+Some debate formats let teams pick the motion they want to debate. During topic selection, a list of three motions will be displayed, and each team has to pick a motion to veto, and a motion they prefer. If teams have opposite preferences, they flip a coin.
 
 ## Prep Time
 Each team has either 15 or 30 minutes to prepare, depending on the format. They have private time to talk about the debate motion. Typically, the Government team stays in the debate room, while the Opposition team prepares outside.
