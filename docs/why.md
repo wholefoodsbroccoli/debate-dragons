@@ -34,15 +34,15 @@ If you've read this far, you might be the type of person we're describing. We'd 
 
 ## I don't want to sound stupid in front of other people.
 
-This problem doesn't go away. It happens to people who have debated for many years. But it's okay because that never stops us from trying! And everyone's free to just listen in, and come and go as they please in the session.
+I'm not sure if this helps or not, but this is a problem people face even when they've debated for many years. But it's okay, because that doesn't stop us from trying and having fun! And everyone's free to just listen in, and come and go as they please in the session.
 
 Also - you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
 
 And even if you don't like the way you speak - you sure won't feel like that for long! We've got lessons and drills and personalized feedback from experienced members to help you train your speaking and thinking skills at your own pace - all for free! It's honestly a really sweet deal.
 
-## It sounds kind of cool, but I'm too lazy xdddd
+## It sounds kind of cool, but I'm too lazy...
 
-That's mood. But we can't help you there! Some people want something fun to do after class. It's a lot of work to become super good at debate yes, but you don't have to do that to be part of our club, or enjoy debating itself, or reap the rewards of the community. 
+You know what? that's fair lol. But we can't help you there! Some people want something fun to do after class. It's true that you need a lot of work to become super good at debate, but you don't have to do that to be part of our club, or enjoy debating itself, or reap the rewards of the community. 
 
 Getting better at debate is great! It brings structure. It's addicting. People like the grind. You'll feel yourself improving and becoming smarter and funnier. You get to actually use the information you learn in school instead of memorizing for the test. Batey has probably learned more for the sake of debate than all uni classes put together.
 
