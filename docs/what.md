@@ -10,9 +10,11 @@ Parliamentary debate is a **team game** where speakers take turns **giving speec
 ## Before the Debate
 Debates happen between teams of two or three. 
 
-## Motion Release
+## Topic Selection
 
-### Veto
+### The Motion
+
+### The Veto
 In Asian Parliamentary debate
 
 ## Prep Time
