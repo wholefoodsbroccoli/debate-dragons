@@ -7,10 +7,12 @@ nav_order: 3
 # What's in a Debate?
 Parliamentary debate is a **team game** where speakers take turns **giving speeches** in order to **persuade a judge** on a **motion topic.**[^1] This section is meant to guide readers through a debate round, from start to finish.
 
-## Team Game
+## Before the Debate
 Debates happen between teams of two or three. 
 
-## Veto
+## Motion Release
+
+### Veto
 In Asian Parliamentary debate
 
 ## Prep Time
