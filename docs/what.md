@@ -5,43 +5,46 @@ nav_order: 3
 ---
 
 # What's in a Debate?
-Parliamentary debate is a **team game** where speakers take turns **giving speeches** in order to **persuade a judge** on a **motion topic.**[^1] This section is meant to guide readers through a debate round, from start to finish.
+Parliamentary debate is a **team game** where speakers take turns **giving speeches** in order to **persuade a judge** on a **motion topic.**
+
+This section guides readers through a debate, from start to finish. Rather than a comprehensive list of the rules,[^1] it is meant to give a broad vibe or feel for a real round instead.
 
 ## Before the Debate
-Debates happen between teams of two or three. 
+There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' topic - and the Opposition side, who is against it.
 
-There are no ties in any debate format, meaning every round has a decisive result.
+Debates happen between teams of two or three people. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic. 
 
-## Topic Selection
+In a real tournament, debaters don't get to choose their bench, nor do they get to choose the motion they compete on. This ensures each round is unique, and forces speakers to improvise, be creative, and rely on their own knowledge and teamwork to win.
+
+The debaters will be given some time to prepare, and when they're finished, a judge will come to the debate room to decide who the winner is. There are no ties in any debate format, meaning every round has a decisive result.
+
+## The Round Begins!
+
+### Prep Time
+After the teams and their sides are confirmed, the motion topic is released, and prep time begins. Each team gets 15 to 30 minutes of private time to talk and ready their case. The Government team typically stays within the debate room to plan, while the Opposition team prepares outside.
+
+Debaters are not allowed to use the internet or AI. In physical tournaments, speakers generally must take notes on paper.
 
 ### The Motion
-Each motion in the debate has a **keyword.** It informs the teams of the specific topic, and which arguments they're allowed to make according to the rules. 
+Each motion in the debate has a **keyword.** The keyword shows teams what they have to do to win the debate, and which arguments they're allowed to make according to the rules. 
 
-**This House Would** is a policy motion. The Government team can invent a policy
-  -In "This House Would ban all drugs," Opposition is allowed to say, "we won't ban drugs, we will regulate them instead." This is because the two are mutually exclusive, and use a similar amount of resources.
-  -In "This House Would grant dictators amnesty for willingly stepping down from office"
-This House Believes That 
-  -Government believes the statement is true. Opposition believes the statement is false.
+For example, in the motion "**This House Prefers** apples to oranges," Government must defend apples and Opposition must defend oranges. This means Gov can't win the debate by proving pears are better than oranges, and Opp can't win the debate by proving oranges are better than nothing.  
 
+More unintuitively, it also means Gov can't win the debate just by proving apples are good, even though it helps their case. Similarly, Opp can't win the debate just by proving that apples are really bad - even though it helps their case, too. Even if Opp 100% definitely proves that apples are really bad, if Gov successfully proves that oranges are *even worse,* that would be a **stronger reason to prefer apples to oranges**, and Gov would win the debate.
 
+When debaters first see the motion, they read it very carefully. The motion is telling you exactly what it wants you to do in the round - and 
 
 ### The Veto
-Some debate formats let teams pick the motion they want to debate. During topic selection, a list of three motions will be displayed, and each team has to pick a motion to veto, and a motion they prefer. If teams have opposite preferences, they flip a coin.
-
-## Prep Time
-Each team has either 15 or 30 minutes to prepare, depending on the format. They have private time to talk about the debate motion. Typically, the Government team stays in the debate room, while the Opposition team prepares outside.
-
-Debaters are never allowed to use the internet or AI to help them prepare. In physical tournaments, even paper notes are generally required for this reason. 
-
-What does the judge do during prep time? They're probably walking off somewhere.
+Some debate formats let teams pick the motion they want to debate. During topic selection, the teams meet up, and a list of three motions will be displayed. Each team has to pick a motion to veto, and a motion they prefer. If teams have opposite preferences, they flip a coin.
 
 ## Giving Speeches
-Each team takes turns sending members to give a speech of up to 7 minutes of uninterrupted speaking time. The Government team goes first, and they argue in favor of the motion. The Opposition argues against. It zigzags back and forth like this helpful diagram.
+When prep time concludes, the debaters go back to the pre-determined debate room
+Each team sends members one-by-one to give a speech up to 7 minutes long. The Government team begins, and the Opposition goes next, zig-zagging according to the diagram below. The debate ends when the last speaker concludes.
 
-Opposing speakers are allowed to offer a Point of Information to a speaker on stage. They could stand up, raise their hand, or give a verbal cue, and if the speaker chooses to accept, they're allowed to ask a question or give a comment up to 15 seconds long.
+Sometimes debaters give Points of Information to the other team's speaker on stage. They could stand up, raise their hand, or give a verbal cue, and if the speaker chooses to accept, they're allowed to ask a question or give a comment up to 15 seconds long.
 
 ## The Judge
-The judge's primary job is to decide who wins. 
+The judge decides who wins the debate. 
 
 ## After the Debate
 The teams shake hands, and can stay to ask the judges for personal feedback and questions about the round. The judge will give a few tips for how to improve next time, and then everybody leaves the debate room!
