@@ -34,7 +34,7 @@ If you've read this far, you might be the type of person we're describing. We'd 
 
 ## I don't want to sound stupid in front of other people.
 
-I'm not sure if this helps or not, but this is a problem people face even when they've debated for many years. But it's okay, because that doesn't stop us from trying and having fun! And everyone's free to just listen in, and come and go as they please in the session.
+I'm not sure if this helps or not, but this is a problem people face even when they've debated for many years - even Batey. But it's okay, because practice that doesn't stop us from trying and having fun! And even if you're shy to speak, everyone's free to just listen in, or to come and go as they please in our session.
 
 Also - you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
 
@@ -51,3 +51,5 @@ Getting better at debate is great! It brings structure. It's addicting. People l
 Debate Club is a uniquely active club in that we meet multiple times a week - usually once on Tuesday, and once on Wednesday. Come drop by and say hello! We have events like collaborations with Film Club, we go to tournaments, and have our Debate Showdown once a term, open for all skill levels! We also have a Discord where anybody can message or chat, and an Instagram where there are mini-activities and prizes.
  
 [^1]: There are surprisingly many instances of our club members dating??? If that's a selling point???
+
+
