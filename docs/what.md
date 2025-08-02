@@ -3,7 +3,7 @@ title: What's in a Debate?
 layout: home
 ---
 
-# What's in a Debate?
+### What's in a Debate?
 Parliamentary debate is a **team game** where speakers take turns **giving speeches** in order to **persuade a judge** on a **motion topic.**[^1] This section is meant to guide readers through a debate round, from start to finish.
 
 ## Team Game
