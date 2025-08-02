@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Why Debate?
-This section is meant for people who are on the fence about debate, or are thinking about joining but have concerns. We aim to address those concerns directly here.
+This section is meant for people who are on the fence about debate, or have concerns about joining. Here, we aim to address those concerns directly.
 
 That said, Batey loves debate, and wants to show how much fun it can be too! It is an incredibly rewarding activity, in that debate gives back the effort you choose to share with it. Consider trying debate if you:
 
