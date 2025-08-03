@@ -60,6 +60,7 @@ Judging can be tricky, because they have to condense an hour's worth of speeches
 
 <details>
   <summary>How Judging Works</summary>
+  
 ### The Average Reasonable Voter
 
 Some may wonder, 'if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?' You're right! In order for debate to be as fair and unbiased as possible, judges have to follow two golden principles:
