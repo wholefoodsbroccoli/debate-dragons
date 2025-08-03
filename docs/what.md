@@ -20,11 +20,6 @@ The debaters will be given some time to prepare, and when they're finished, a ju
 
 ## The Round Begins!
 
-### Prep Time
-After the teams and their sides are confirmed, the motion topic is released, and prep time begins. Each team gets 15 to 30 minutes of private time to talk and ready their case. The Government team typically stays within the debate room to plan, while the Opposition team prepares outside.
-
-Debaters are not allowed to use the internet or AI. In physical tournaments, speakers generally must take notes on paper.
-
 ### The Motion
 Each motion in the debate has a **keyword.** The keyword shows teams what they have to do to win the debate, and which arguments they're allowed to make according to the rules. 
 
@@ -35,8 +30,18 @@ When debaters first see the motion, they read it very carefully. The motion keyw
 ### The Veto
 Some debate formats let teams pick the motion they want to debate. During topic selection, the teams meet up, and a list of three motions will be displayed. Each team has to pick a motion to veto, and a motion they prefer. If teams have opposite preferences, they flip a coin.
 
+### Prep Time
+After the teams and their sides are confirmed, the motion topic is released, and prep time begins. Each team gets 15 to 30 minutes of private time to talk and ready their case. The Government team typically stays within the debate room to plan, while the Opposition team prepares outside.
+
+Debaters are not allowed to use the internet or AI. In physical tournaments, speakers generally must take notes on paper.
+
+What do teams actually do in those minutes?
+
+
+
 ## Giving Speeches
-When prep time concludes, the debaters go back to the pre-determined debate room
+When prep time concludes, the debaters go back to the debate room, where the judge does roll call and begins the debate.
+
 Each team sends members one-by-one to give a speech up to 7 minutes long. The Government team begins, and the Opposition goes next, zig-zagging according to the diagram below. The debate ends when the last speaker concludes.
 
 Sometimes debaters give Points of Information to the other team's speaker on stage. They could stand up, raise their hand, or give a verbal cue, and if the speaker chooses to accept, they're allowed to ask a question or give a comment up to 15 seconds long.
