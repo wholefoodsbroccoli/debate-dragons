@@ -77,16 +77,24 @@ Such a person lacks 'specialized knowledge', so debaters have to make sure they 
 
 Savvy viewers may ask further questions. 'Wait, does that mean you can completely make things up, as long as it makes sense to the judge?' 'Where do you draw the line between specialized and basic knowledge?' Very astute! Too much intervention can squash creative ideas and force teams to work unfairly hard to overcome judge biases. Too little means rewarding lies and stock arguments at the expense of real-world knowledge - which is what debate is supposed to encourage in the first place. The question of how much to intervene is an active debate within the community - and you'll likely find as many different answers as there are judges. 
 
-For those interested in becoming judges, you'll find it can be a uniquely collaborative experience in a competitive game. It's heartwarming to encourage debaters and help them improve, while working together with fellow judges to reach a common goal. Batey believes that every aspiring debater should try out judging - if not for the camaraderie, because understanding how to think like a judge is crucial to winning rounds.
+For those interested in becoming judges, you'll find it can be a uniquely collaborative experience in a competitive game. It's heartwarming to encourage debaters and help them improve, while working together with fellow panelists to reach a common goal. It's also easy to learn debate through observation and hearing the thoughts of experienced judges and speakers. Batey believes that every aspiring debater should try out judging - if not for the camaraderie, because understanding how to think like a judge is crucial to winning rounds.
 
 </details>
 
 ## After the Debate
 The teams shake hands, and can stay to ask the judges for personal feedback and questions about the round. The judge will give a few tips for how to improve next time, and then everybody leaves the debate room! 
 
+In a tournament, the judges would fill out a 'ballot' that tells the result of the debate, and gives each person a speaker score. The debaters would fill out a feedback form for the judges, and give them a score as well.
 
+People expect a lot from their judges, so remember to be kind to them, especially if they're new! It helps to ask targeted questions instead of expecting the judge to have ready-made personal feedback all the time. That said, many judges you'll find in tournaments, as well as the debaters in our club love debate and are happy to nerd out about it! Please take advantage of the free individual feedback our club provides - that's more than a lot of teachers give!
 
-## AP vs. BP
-Asian Parliamentary is a team vs. team match. British Parliamentary is a battle royale.
+---
+
+## Bonus: Asian Parliamentary vs. British Parliamentary
+The two main formats we do in our club.  
+
+Asian Parliamentary involves two teams - one Gov, one Opp, with three people on each team. It gives teams 30 minutes of prep time, and allows speakers to veto motions they don't like. The winning team gets 1 point, the losing team gets 0.
+
+British Parliamentary involves four teams - two Gov, two Opp, with two partners in each team. It gives teams 15 minutes of prep, and vetos are not allowed - there is only one motion. Teams are ranked 1st to 4th, with the 1st-place team getting 3 points, the 2nd-place team getting 2, the 3rd-place team getting 1, and the 4th place team getting 0. The 'closing half' 
 
 [^1]: The most recent official rules for the [British Parliamentary](https://sadcdebate.com/files/WUDC-Manual-2024.pdf) and [Asian Parliamentary](https://docs.google.com/document/d/1JoJa0oqDfW06vAQb3eBcAX37oG9p2g0hRO44vvCHv_Q/edit?tab=t.0) debate formats are here. They're long and probably shouldn't be read cover-to-cover, but provide insight into the framework and philosophy behind debating. It makes more sense after firsthand experience!
