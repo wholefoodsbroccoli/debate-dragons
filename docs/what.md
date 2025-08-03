@@ -59,7 +59,7 @@ The judges will go through their notes, sort through the 'clashes,' or main issu
 Judging can be tricky, because they have to condense an hour's worth of speeches into a 10 minute OA. It ideally has to be easy to understand, defensible to suspicious debaters, and ready in time for the next round to start! This is why many chairs are also experienced debaters who are familiar with the format. 
 
 <details>
-  <summary>### Notes on how judging works and the Average Reasonable Voter</summary>
+  <summary>### The Average Reasonable Voter</summary>
 Some may wonder, 'if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?' You're right! In order for debate to be as fair and unbiased as possible, judges have to follow two golden principles:
 
 1) **Noninterventionism** - Judges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself. 
