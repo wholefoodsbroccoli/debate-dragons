@@ -60,7 +60,9 @@ Judging can be tricky, because they have to condense an hour's worth of speeches
 
 <details>
   <summary>  
-**Wait, if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?** 
+    <strong>
+Wait, if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?
+    </strong>
   </summary>  
   
 ### How Judging Works ###  
