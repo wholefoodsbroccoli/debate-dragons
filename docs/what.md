@@ -64,10 +64,10 @@ Debaters expect a lot from their judges,
 Some may wonder, 'if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?' You're right! In order for debate to be as fair and unbiased as possible, judges have to follow two golden principles:
 
 1) Noninterventionism
-Judges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself.
+\nJudges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself.
 
 2) The Average Reasonable Voter
-Instead, judges adopt the perspective of a person who: knows basic facts and news headlines, understands logic and logical fallacies, isn't biased towards any culture or geographical location, and can be convinced of anything given a good explanation. This person lacks specialized knowledge, so debaters have to make sure they explain complicated concepts to them step-by-step, even if they're the smartest person in the world.
+\nInstead, judges adopt the perspective of a person who: knows basic facts and news headlines, understands logic and logical fallacies, isn't biased towards any culture or geographical location, and can be convinced of anything given a good explanation. This person lacks specialized knowledge, so debaters have to make sure they explain complicated concepts to them step-by-step, even if they're the smartest person in the world.
 
 ## After the Debate
 The teams shake hands, and can stay to ask the judges for personal feedback and questions about the round. The judge will give a few tips for how to improve next time, and then everybody leaves the debate room! 
