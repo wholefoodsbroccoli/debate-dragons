@@ -28,11 +28,9 @@ Debaters are not allowed to use the internet or AI. In physical tournaments, spe
 ### The Motion
 Each motion in the debate has a **keyword.** The keyword shows teams what they have to do to win the debate, and which arguments they're allowed to make according to the rules. 
 
-For example, in the motion "**This House Prefers** apples to oranges," Government must defend apples and Opposition must defend oranges. This means Gov can't win the debate by proving pears are better than oranges, and Opp can't win the debate by proving oranges are better than nothing.  
+For example, in the motion "**This House Prefers** apples to oranges," Government must defend apples and Opposition must defend oranges. This means Gov can't win the debate by proving pears are better than oranges, and Opp can't win the debate by proving oranges are better than nothing. To win, the teams must prove that apples specifically beat oranges, or vice versa.
 
-More unintuitively, it also means Gov can't win the debate just by proving apples are good, even though it helps their case. Similarly, Opp can't win the debate just by proving that apples are really bad - even though it helps their case, too. Even if Opp 100% definitely proves that apples are really bad, if Gov successfully proves that oranges are *even worse,* that would be a **stronger reason to prefer apples to oranges**, and Gov would win the debate.
-
-When debaters first see the motion, they read it very carefully. The motion is telling you exactly what it wants you to do in the round - and 
+When debaters first see the motion, they read it very carefully. The motion keyword tells you exactly what it wants your team to do in the debate! Whenever you get stuck, or don't know what arguments to make, or feel lost, oftentimes double-checking the motion is the solution.
 
 ### The Veto
 Some debate formats let teams pick the motion they want to debate. During topic selection, the teams meet up, and a list of three motions will be displayed. Each team has to pick a motion to veto, and a motion they prefer. If teams have opposite preferences, they flip a coin.
