@@ -63,17 +63,17 @@ Judging can be tricky, because they have to condense an hour's worth of speeches
     **Wait, if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?** 
   </summary>
   
-### How Judging Works
+### How Judging Works ###  
 
-You're right! In order for debate to be as fair and unbiased as possible, judges have to follow two golden principles:
+You're right! In order for debate to be as fair and unbiased as possible, judges have to follow two golden principles:  
 
-1) **Noninterventionism** - Judges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself. 
+1) **Noninterventionism** - Judges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself.  
 
-2) **The Average Reasonable Voter** - Instead, judges adopt the perspective of a person who: knows basic facts and news headlines, understands logic and logical fallacies, isn't biased towards any culture or geographical location, and can be convinced of anything given a good explanation.
+2) **The Average Reasonable Voter** - Instead, judges adopt the perspective of a person who: knows basic facts and news headlines, understands logic and logical fallacies, isn't biased towards any culture or geographical location, and can be convinced of anything given a good explanation.  
 
-Such a person lacks 'specialized knowledge', so debaters have to make sure they explain complicated concepts to them step-by-step, even if they're the smartest person in the world. This means numerical statistics and real-world studies can't be taken at face value in parliamentary debate (we can't fact-check or just take your word on it!) - they have to be explained in a way that a person can intuitively understand. 
+Such a person lacks 'specialized knowledge', so debaters have to make sure they explain complicated concepts to them step-by-step, even if they're the smartest person in the world. This means numerical statistics and real-world studies can't be taken at face value in parliamentary debate (we can't fact-check or just take your word on it!) - they have to be explained in a way that a person can intuitively understand.  
 
-Savvy viewers may raise the question, 'wait, does that mean you can completely make things up, as long as it makes sense to the judge?' 
+Savvy viewers may ask further questions. 'Wait, does that mean you can completely make things up, as long as it makes sense to the judge?' 'Where do you draw the line between specialized and basic knowledge?'
 </details>
 
 ## After the Debate
