@@ -10,9 +10,9 @@ Parliamentary debate is a **team game** where speakers take turns **giving speec
 This section guides readers through a debate, from start to finish. Rather than a comprehensive list of the rules,[^1] it is meant to give a broad vibe or feel for a real round instead.
 
 ## Before the Debate
-There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' topic - and the Opposition side, who is against it.
+There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' topic - and the Opposition side, who is against it. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic.
 
-Debates happen between teams of two or three people. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic. Each team also knows which person on their team speaks first, second, or last. Each has a different duty, kind of like a role, or position, or character class in a sport or video game.
+Debates happen between teams of two or three people. Each team also knows which person on their team speaks first, second, or last. Each has a different duty, kind of like a role, or position, or character class in a sport or video game. 
 
 In a real tournament, debaters don't get to choose their bench, nor do they get to choose the motion they compete on. This ensures each round is unique, and forces speakers to improvise, be creative, and rely on their own knowledge and teamwork to win.
 
