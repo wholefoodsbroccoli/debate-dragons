@@ -31,29 +31,48 @@ When debaters first see the motion, they read it very carefully. The motion keyw
 Some debate formats let teams pick the motion they want to debate. During topic selection, the teams meet up, and a list of three motions will be displayed. Each team has to pick a motion to veto, and a motion they prefer. If teams have opposite preferences, they flip a coin.
 
 ### Prep Time
-After the teams and their sides are confirmed, the motion topic is released, and prep time begins. Each team gets 15 to 30 minutes of private time to talk and ready their case. The Government team typically stays within the debate room to plan, while the Opposition team prepares outside.
-
-Debaters are not allowed to use the internet or AI to prepare. In physical tournaments, speakers generally must take notes on paper.
+After the teams and their sides are confirmed, the motion topic is released, and prep time begins. Each team gets 15 to 30 minutes of private time to strategize and ready their case. The Government team typically stays within the debate room to plan, while the Opposition team prepares outside.
 
 How do teams actually use this time?
 <li>A few minutes of silent time to come up with original ideas</li>
 <li>Anticipating what the opponent will say, and how to respond to it</li>
 <li>Fleshing out the case with reasons their arguments are **true** and **important**</li>
-<li>Adding details like storytelling, real-world examples, and jokes to stick out to the judge</li>
+<li>Adding details like storytelling, real-world examples, and humor to stick out to the judge</li>
 <li>'Setting up' the debate with definitions, helpful details about the world, and why they solve a big problem.</li>
+
+Debaters are not allowed to use the internet or AI to prepare. That would spoil the fun! And may not be as helpful as it sounds. Because of this, speakers generally must take notes on paper in real-life tournaments.
 
 ## Giving Speeches
 When prep time concludes, the debaters go back to the debate room, where the judge does roll call and begins the debate.
 
 Each team sends members one-by-one to give a speech up to 7 minutes long. The Government team begins, and the Opposition goes next, zig-zagging according to the diagram below. The debate ends when the last speaker concludes.
 
-Sometimes debaters give Points of Information to the other team's speaker on stage. They could stand up, raise their hand, or give a verbal cue, and if the speaker chooses to accept, they're allowed to ask a question or give a comment up to 15 seconds long.
+Normally debaters can't talk during opposing speeches, except for Points of Information to the speaker on stage. A sitting debater could stand up, raise their hand, or give a verbal cue, and if the person on stage chooses to accept, they're allowed up to 15 seconds to comment or ask a question.
+
+As their turn to speak approaches, debaters scramble to write what they're going to say, while simultaneously taking notes on their opponents and trying to counter their speech on the fly. It's not unusual to see debaters cracking jokes, getting sassy, cheering during speeches, pacing around the podium and generally freaking out in the best possible ways!
 
 ## The Judge
-The judge decides who wins the debate. 
+After the debate, the judge takes time to deliberate. This is when they decide the verdict and prepare their 'oral adjudication,' where they explain the reason for their decision to the debaters afterwards. Sometimes there are 'panels' of multiple judges, led by a 'chair,' or chief judge who coordinates them. 
+
+The judges will go through their notes, sort through the 'clashes,' or main issues in the debate, and then discuss which side won the more important clashes. Debate teams that make sure their arguments are more true and more important than the other side, have a higher chance of winning.
+
+Judging can be tricky, because they have to condense an hour's worth of speeches into a 10 minute OA. It ideally has to be easy to understand, defensible to suspicious debaters, and ready in time for the next round to start! Many chairs are experienced debaters who are familiar with the debate format
+
+Debaters expect a lot from their judges, 
+
+### The Average Reasonable Voter
+Some may wonder, 'if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?' You're right! In order for debate to be as fair and unbiased as possible, judges have to follow two golden principles:
+
+1) Noninterventionism
+Judges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself.
+
+2) The Average Reasonable Voter
+Instead, judges adopt the perspective of a person who: knows basic facts and news headlines, understands logic and logical fallacies, isn't biased towards any culture or geographical location, and can be convinced of anything given a good explanation. This person lacks specialized knowledge, so debaters have to make sure they explain complicated concepts to them step-by-step, even if they're the smartest person in the world.
 
 ## After the Debate
-The teams shake hands, and can stay to ask the judges for personal feedback and questions about the round. The judge will give a few tips for how to improve next time, and then everybody leaves the debate room!
+The teams shake hands, and can stay to ask the judges for personal feedback and questions about the round. The judge will give a few tips for how to improve next time, and then everybody leaves the debate room! 
+
+
 
 ## AP vs. BP
 Asian Parliamentary is a team vs. team match. British Parliamentary is a battle royale.
