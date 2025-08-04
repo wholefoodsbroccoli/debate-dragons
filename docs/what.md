@@ -54,7 +54,7 @@ As their turn to speak approaches, debaters scramble to write what they're going
 ## The Judge
 After the debate, the judge takes time to deliberate. This is when they decide the verdict and prepare their 'oral adjudication,' where they explain the reason for their decision to the debaters afterwards. Sometimes there are 'panels' of multiple judges, led by a 'chair,' the chief judge who coordinates them. 
 
-The judges will go through their notes, sort through the 'clashes,' or main issues in the debate, and then discuss which side won the more important clashes. Teams who make sure their arguments are **more true** and **more important** than the other side have a higher chance of winning.
+The judges will go through their notes, sort through the 'clashes,' or main issues in the debate, and then discuss which side won the more important clashes. Generally, teams who make sure their arguments are **more likely** and **more important** than the other side have a higher chance of winning.
 
 Judging can be tricky, because they have to condense an hour's worth of speeches into a 10 minute OA. It ideally has to be easy to understand, defensible to suspicious debaters, and ready in time for the next round to start! This is why many chairs are also experienced debaters who are familiar with the format. 
 
