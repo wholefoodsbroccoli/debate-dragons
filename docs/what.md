@@ -58,7 +58,7 @@ The judges will go through their notes, sort through the 'clashes,' or main issu
 
 Judging can be tricky, because they have to condense an hour's worth of speeches into a 10 minute OA. It ideally has to be easy to understand, defensible to suspicious debaters, and ready in time for the next round to start! This is why many chairs are also experienced debaters who are familiar with the format. 
 
-<details>
+<details markdown="span">
   <summary>  
     <strong>
 Wait, if it's all up to a single judge, can't they just ignore everything in the debate and give the win to the side they agree with?
