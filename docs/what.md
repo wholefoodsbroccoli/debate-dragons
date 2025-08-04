@@ -7,21 +7,21 @@ nav_order: 3
 # What's in a Debate?
 Parliamentary debate is a **team game** where speakers take turns **giving speeches** in order to **persuade a judge** on a **motion topic.**
 
-This section guides readers through a debate, from start to finish. Rather than a comprehensive list of the rules,[^1] it is meant to give a broad vibe or feel for a real round instead.
+This section guides readers through a debate, from start to finish. Rather than a comprehensive list of the rules, it is meant to give a broad vibe or feel for a real round instead.
 
 ## Before the Debate
-There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' topic - and the Opposition side, who is against it. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic.
+There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' - and the Opposition side, who is against it. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic.
 
-Debates happen between teams of two or three people. Each team also knows which person on their team speaks first, second, or last. Each has a different duty, kind of like a role, or position, or character class in a sport or video game. 
+Debates happen between teams of two or three people who go first, second, or third. Each has a different duty, like a role, position, or character class in a sport or video game. 
 
-In a real tournament, debaters don't get to choose their bench, nor do they get to choose the motion they compete on. This ensures each round is unique, and forces speakers to improvise, be creative, and rely on their own knowledge and teamwork to win.
+In a real tournament, debaters don't get to choose their bench, nor do they get to choose the motion they compete on. This forces speakers to improvise, be creative, and rely on their own knowledge and teamwork to win.
 
-The debaters will be given some time to prepare, and when they're finished, a judge will come to the debate room to decide who the winner is. There are no ties in any debate format, meaning every round has a decisive result.
+The debaters will be given some time to prepare, and when they're finished, go to the debate room to begin the round. There are no ties in any debate format, meaning every round has a decisive result.
 
 ## The Round Begins!
 
 ### The Motion
-Each motion in the debate has a **keyword.** The keyword shows teams what they have to do to win the debate, and which arguments they're allowed to make according to the rules. 
+Each motion in the debate has a **keyword.** The keyword shows what teams must prove to win, and which arguments are allowed by the rules.
 
 For example, in the motion "**This House Prefers** apples to oranges," Government must defend apples and Opposition must defend oranges. This means Gov can't win the debate by proving pears are better than oranges, and Opp can't win the debate by proving oranges are better than nothing. To win, the teams must prove that apples specifically beat oranges, or vice versa.
 
@@ -52,9 +52,9 @@ Normally debaters can't talk during opposing speeches, except for Points of Info
 As their turn to speak approaches, debaters scramble to write what they're going to say, while simultaneously taking notes on their opponents and trying to counter their speech on the fly. It's not unusual to see debaters cracking jokes, getting sassy, cheering during speeches, pacing around the podium and generally freaking out in the best possible ways!
 
 ## The Judge
-After the debate, the judge takes time to deliberate. This is when they decide the verdict and prepare their 'oral adjudication,' where they explain the reason for their decision to the debaters afterwards. Sometimes there are 'panels' of multiple judges, led by a 'chair,' or chief judge who coordinates them. 
+After the debate, the judge takes time to deliberate. This is when they decide the verdict and prepare their 'oral adjudication,' where they explain the reason for their decision to the debaters afterwards. Sometimes there are 'panels' of multiple judges, led by a 'chair,' the chief judge who coordinates them. 
 
-The judges will go through their notes, sort through the 'clashes,' or main issues in the debate, and then discuss which side won the more important clashes. Debate teams that make sure their arguments are more true and more important than the other side, have a higher chance of winning.
+The judges will go through their notes, sort through the 'clashes,' or main issues in the debate, and then discuss which side won the more important clashes. Teams who make sure their arguments are **more true** and **more important** than the other side have a higher chance of winning.
 
 Judging can be tricky, because they have to condense an hour's worth of speeches into a 10 minute OA. It ideally has to be easy to understand, defensible to suspicious debaters, and ready in time for the next round to start! This is why many chairs are also experienced debaters who are familiar with the format. 
 
@@ -69,9 +69,9 @@ Great observation! In order for debate to be as fair and unbiased as possible, j
 
 2) **The Average Reasonable Voter** - Instead, judges adopt the perspective of a person who: knows basic facts and news headlines, understands logic and logical fallacies, isn't biased towards any culture or geographical location, and can be convinced of anything given a good explanation.  
 
-Such a person lacks 'specialized knowledge', so debaters have to make sure they explain complex ideas to them step-by-step, even if they're the smartest person in the world. This means numerical statistics and real-world studies can't be taken at face value in parliamentary debate (we can't fact-check or just take your word on it!) - they have to be explained in a way that a person can intuitively understand.  
+The voter lacks 'specialized knowledge', so debaters have to make sure they explain complex ideas to them step-by-step, even if they're the smartest person in the world. This means numerical statistics and real-world studies can't be taken at face value in parliamentary debate (we can't fact-check or just take your word on it!) - they have to be explained in a way that a person can intuitively understand.  
 
-Savvy viewers may ask further questions. 'Wait, does that mean you can completely make things up, as long as it makes sense to the judge?' 'Where do you draw the line between specialized and basic knowledge?' Very astute! Too much intervention can squash creative ideas and force teams to work unfairly hard to overcome judge biases. Too little means rewarding lies and stock arguments at the expense of real-world knowledge - which is what debate is supposed to encourage in the first place. The question of how much to intervene is an active debate within the community - and you'll likely find as many different answers as there are judges.  
+Savvy viewers may ask further questions. 'Wait, does that mean you can completely make things up, as long as it makes sense to the judge?' 'Where do you draw the line between specialized and basic knowledge?' Very astute! Too much intervention can squash creative ideas and force teams to work unfairly hard to overcome judge biases. Too little means rewarding lies, stock arguments, and debate lingo at the expense of real-world knowledge - which is what the game is supposed to encourage in the first place. The question of how much to intervene is an active debate within the community - and you'll likely find as many different answers as there are judges.  
 
 For those interested in becoming judges, you'll find it can be a uniquely collaborative experience in a competitive game. It's heartwarming to encourage debaters and help them improve, while working together with fellow panelists to reach a common goal. It's also easy to learn debate through observation and hearing the thoughts of experienced judges and speakers. Batey believes that every aspiring debater should try out judging - if not for the camaraderie, because understanding how to think like a judge is crucial to winning rounds.  
 
@@ -89,8 +89,10 @@ People expect a lot from their judges, so remember to be kind to them, especiall
 ## Bonus: Asian Parliamentary vs. British Parliamentary
 The two main formats we do in our club.  
 
-Asian Parliamentary involves two teams - one Gov, one Opp, with three people on each team. It gives teams 30 minutes of prep time, and allows speakers to veto motions they don't like. The winning team gets 1 point, the losing team gets 0.
+Asian Parliamentary involves two teams with three people each. Prep time is longer (30 minutes), and vetos are allowed. The winning team gets 1 point, the losing team gets 0.
 
-British Parliamentary involves four teams - two Gov, two Opp, with two partners in each team. It gives teams 15 minutes of prep, and vetos are not allowed - there is only one motion. Teams are ranked 1st to 4th, with the 1st-place team getting 3 points, the 2nd-place team getting 2, the 3rd-place team getting 1, and the 4th place team getting 0. The 'closing half' 
+British Parliamentary involves four teams with two partners each. Prep time is shorter (15 minutes) and there are no vetos. Teams are ranked 1st to 4th, and every team wants to out-compete each other, regardless of their bench.
+
+If Asian Parliamentary is a team deathmatch, British Parliamentary is a battle royale. AP tends to be more forgiving and easy for new debaters, while BP is a free-for-all brawl.
 
 [^1]: The most recent official rules for the [British Parliamentary](https://sadcdebate.com/files/WUDC-Manual-2024.pdf) and [Asian Parliamentary](https://docs.google.com/document/d/1JoJa0oqDfW06vAQb3eBcAX37oG9p2g0hRO44vvCHv_Q/edit?tab=t.0) debate formats are here. They're long and probably shouldn't be read cover-to-cover, but provide insight into the framework and philosophy behind debating. It makes more sense after firsthand experience!
