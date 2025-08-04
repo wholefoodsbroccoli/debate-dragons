@@ -65,19 +65,19 @@ Wait, if it's all up to a single judge, can't they just ignore everything in the
     </strong>
   </summary>  
   
-### How Judging Works ###  
+### How Judging Works ###   
 
 Great observation! In order for debate to be as fair and unbiased as possible, judges have to follow two golden principles:  
 
-1) **Noninterventionism** - Judges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself. Only during incredibly messy debates - ones where there isn't enough information within the round to determine a clear winner (like when the teams have two completely different, equally convincing views of reality), will a judge be forced to intervene.
+1) **Noninterventionism** - Judges avoid 'inserting themselves' into the debate, which means they can't use their own opinions, or information that didn't come from the debate. Everything used to decide the verdict must come within the round itself. Only during incredibly messy debates - ones where there isn't enough information within the round to determine a clear winner (like when the teams have two completely different, equally convincing views of reality), will a judge be forced to intervene.  
 
 2) **The Average Reasonable Voter** - Instead, judges adopt the perspective of a person who: knows basic facts and news headlines, understands logic and logical fallacies, isn't biased towards any culture or geographical location, and can be convinced of anything given a good explanation.  
 
 Such a person lacks 'specialized knowledge', so debaters have to make sure they explain complex ideas to them step-by-step, even if they're the smartest person in the world. This means numerical statistics and real-world studies can't be taken at face value in parliamentary debate (we can't fact-check or just take your word on it!) - they have to be explained in a way that a person can intuitively understand.  
 
-Savvy viewers may ask further questions. 'Wait, does that mean you can completely make things up, as long as it makes sense to the judge?' 'Where do you draw the line between specialized and basic knowledge?' Very astute! Too much intervention can squash creative ideas and force teams to work unfairly hard to overcome judge biases. Too little means rewarding lies and stock arguments at the expense of real-world knowledge - which is what debate is supposed to encourage in the first place. The question of how much to intervene is an active debate within the community - and you'll likely find as many different answers as there are judges. 
+Savvy viewers may ask further questions. 'Wait, does that mean you can completely make things up, as long as it makes sense to the judge?' 'Where do you draw the line between specialized and basic knowledge?' Very astute! Too much intervention can squash creative ideas and force teams to work unfairly hard to overcome judge biases. Too little means rewarding lies and stock arguments at the expense of real-world knowledge - which is what debate is supposed to encourage in the first place. The question of how much to intervene is an active debate within the community - and you'll likely find as many different answers as there are judges.  
 
-For those interested in becoming judges, you'll find it can be a uniquely collaborative experience in a competitive game. It's heartwarming to encourage debaters and help them improve, while working together with fellow panelists to reach a common goal. It's also easy to learn debate through observation and hearing the thoughts of experienced judges and speakers. Batey believes that every aspiring debater should try out judging - if not for the camaraderie, because understanding how to think like a judge is crucial to winning rounds.
+For those interested in becoming judges, you'll find it can be a uniquely collaborative experience in a competitive game. It's heartwarming to encourage debaters and help them improve, while working together with fellow panelists to reach a common goal. It's also easy to learn debate through observation and hearing the thoughts of experienced judges and speakers. Batey believes that every aspiring debater should try out judging - if not for the camaraderie, because understanding how to think like a judge is crucial to winning rounds.  
 
 </details>
 
