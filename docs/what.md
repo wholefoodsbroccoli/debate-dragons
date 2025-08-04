@@ -84,8 +84,6 @@ In a tournament, the judges would fill out a 'ballot' that tells the result of t
 
 People expect a lot from their judges, so remember to be kind to them, especially if they're new! It helps to ask targeted questions instead of expecting the judge to have ready-made personal feedback all the time. That said, many judges you'll find in tournaments, as well as the debaters in our club love debate and are happy to nerd out about it! Please take advantage of the free individual feedback our club provides - that's more than a lot of teachers give!
 
----
-
 ## Bonus: Asian Parliamentary vs. British Parliamentary
 The two main formats we do in our club.  
 
