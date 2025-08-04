@@ -28,17 +28,17 @@ That's not to say there isn't room for heat in debate club! It's not unusual to 
 
 From Batey's experience, the people actually attracted to debate tend to be... a bunch of nerds! People who are quirky, funny, a little bit crazy, incredibly diverse, with heads full of ideas they want to share with the world. 
 
-They come to the club seeking things like knowledge, speaking confidence, structure for their jumbled thoughts, or even just a place to belong and feel heard - things our club is happy to help provide. They're some of the most interesting people you'll ever meet, with some of the biggest hearts you'll ever see. Even if you're not so interested in debate, Batey strongly suggests checking out the club for its community - ~~we don't bite probablyyy~~[^1]
+They come to the club seeking things like knowledge, speaking confidence, structure for their jumbled thoughts, or even just a place to belong and feel heard - things our club is happy to help provide. They're some of the most interesting people you'll ever meet, with some of the biggest hearts you'll ever see. Even if you're not so interested in debate, Batey strongly suggests checking out the club for its community. 
 
-If you've read this far, you might be the type of person we're describing. We'd love to meet you!
+If you've read this far, **you** might be the type of person we're describing. We'd love to meet you! Skip to the end if you'd like to see ways you can participate in our club.
 
 ## I don't want to sound stupid in front of other people.
 
-I'm not sure if this helps or not, but this is a problem people face even when they've debated for many years - even Batey. But it's okay, because practice that doesn't stop us from trying and having fun! And even if you're shy to speak, everyone's free to just listen in, or to come and go as they please in our session.
+Batey's not sure if this helps or not, but this is a problem people face even when they've debated for many years - even Batey. But it's okay, because practice builds confidence, and fear shouldn't stop us from having fun anyways! If speaking in a round is uncomfortable, everyone who comes to our session is free to listen in, judge, enter, and leave as they please.
 
-Also - you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
+That said, Batey guarantees you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
 
-And even if you don't like the way you speak - you sure won't feel like that for long! We've got lessons and drills and personalized feedback from experienced members to help you train your speaking and thinking skills at your own pace - all for free! It's honestly a really sweet deal.
+And even if you don't like the way you speak - you sure won't feel like that for long! We've got lessons and drills and personalized feedback from experienced members to help train your speaking and thinking skills at your own pace - all for free! It's honestly a really sweet deal.
 
 ## It sounds kind of cool, but I'm too lazy...
 
