@@ -3,6 +3,8 @@ title: What's in a Debate?
 layout: home
 nav_order: 3
 toc: true
+toc_label: "Page Contents" 
+toc_icon: "list-ul"     
 ---
 
 # What's in a Debate?
