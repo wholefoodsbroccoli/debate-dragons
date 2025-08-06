@@ -2,6 +2,7 @@ title: Debate Dragons
 logo: "assets/images/tonguebatey.png"
 description: An introduction to debate and our debate club!
 theme: just-the-docs
+markdown: kramdown
 
 url: https://just-the-docs.github.io
 
