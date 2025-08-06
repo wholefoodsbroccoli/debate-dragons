@@ -2,6 +2,7 @@
 title: What's in a Debate?
 layout: home
 nav_order: 3
+toc: true
 ---
 
 # What's in a Debate?
