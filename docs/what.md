@@ -1,6 +1,6 @@
 ---
 title: What's in a Debate?
-layout: home
+layout: default
 nav_order: 3
 toc: true
 toc_label: "Page Contents" 
