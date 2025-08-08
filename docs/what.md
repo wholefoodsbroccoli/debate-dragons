@@ -14,7 +14,10 @@ This section guides readers through a debate, from start to finish. Rather than 
 
 {:toc}
 
-## Before the Debate
+## Page Contents
+[Before the Debate](#section-1)
+
+## Before the Debate {#section-1}
 There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' - and the Opposition side, who is against it. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic.
 
 Debates happen between teams of two or three people who go first, second, or third. Each has a different duty, like a role, position, or character class in a sport or video game. 
