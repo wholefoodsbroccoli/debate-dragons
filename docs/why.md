@@ -34,9 +34,9 @@ If you've read this far, **you** might be the type of person we're describing. W
 
 ## I don't want to sound stupid in front of other people.
 
-Batey's not sure if this helps or not, but this is a problem people face even when they've debated for many years - even Batey. But it's okay, because practice builds confidence, and fear shouldn't stop us from having fun anyways! If speaking in a round is uncomfortable, everyone who comes to our session is free to listen in, judge, enter, and leave as they please.
+Batey's unsure if it helps or not, but this is a problem people face even when they've debated for many years - even Batey. But it's okay, because practice builds confidence, and fear shouldn't stop us from having fun anyways! If speaking in a round is uncomfortable, everyone who comes to our session is free to listen in, or come and go as they please.
 
-That said, Batey guarantees you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
+That said, you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
 
 And even if you don't like the way you speak - you sure won't feel like that for long! We've got lessons and drills and personalized feedback from experienced members to help train your speaking and thinking skills at your own pace - all for free! It's honestly a really sweet deal.
 
