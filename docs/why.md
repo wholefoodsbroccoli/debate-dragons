@@ -5,9 +5,9 @@ nav_order: 2
 ---
 
 # Why Debate?
-This section is meant for people who are on the fence about debate, or have concerns about joining. Here, we aim to address those concerns directly.
+This section is meant for people who are on the fence about debate, or have concerns about joining.
 
-That said, Batey loves debate, and wants to show how much fun it can be too! It is an incredibly rewarding activity, in that debate gives back the effort you choose to share with it. Consider trying debate if you:
+Batey loves debate, and wants to show how much fun it can be too! It is an incredibly rewarding activity, in that it gives back the effort you choose to give it. Consider trying debate if you:
 
 <li>Want to make new friends</li>
 <li>Love learning new things about the world</li>
@@ -18,11 +18,11 @@ That said, Batey loves debate, and wants to show how much fun it can be too! It 
 <li>Want to (sometimes) fly abroad to tournaments for free!!!</li>
 
 ## I don't want to get heated...
-When many picture debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! One cannot be a good debater without the ability to listen to others, to be curious about people different from you, and to have an open mind willing to understand new perspectives. This is especially the case, as you do not get to choose the side you debate in a round.
+When picturing debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! You can't be a good debater without the ability to listen to others, to be curious about people who are different from you, and to be willing to understand new perspectives. This is especially so, since you don't get to choose the side you debate in a round.
 
-Batey knows intimately how scary public speaking can be, how much courage it takes to put one's self out there, and the potential for anxiety (and fun!) a debate can create. The people in our club take great responsibility in making sure everyone is comfortable and enjoying playing, what is essentially a game. We take these skills into the real world not to berate or be forceful, but to be mindful of the power words have on ourselves and each other.
+Batey knows how scary public speaking can be! It takes a lot of courage to put one's self out there, and debates can create much potential for both fun and anxiety. The people in our club take great care in making sure everyone is comfy playing our favorite game together. We hope you use debate skills in the real world with that very same care; to be mindful of the effects our words have on others.
 
-That's not to say there isn't room for heat in debate club! It's not unusual to hear quick quips, funny soundbites, or the occasional trash talk when we really get to know each other. There are plenty of ways for a passionate soul to spit fire, and even thrive in a place like ours - but first and foremost comes everyone's safety and well-being. That's a Batey promise.
+That's not to say there isn't room for heat in debate club! It's not unusual to hear quick quips, funny soundbites, or the occasional trash talk when we really get to know each other. There are plenty of ways for a passionate soul to spit fire, and even thrive in a place like ours - but first and foremost comes everyone's safety and well-being. That's a Batey promise!
 
 ## I'm not sure I'll fit in...
 
