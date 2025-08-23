@@ -7,20 +7,22 @@ nav_order: 2
 # Why Debate?
 This section is meant for people who are on the fence about debate, or have concerns about joining.
 
-Batey loves debate, and wants to show how much fun it can be too! It is an incredibly rewarding activity, in that it gives back the effort you choose to give it. Consider trying debate if you:
+Batey loves debate, and wants to show how much fun it can be! Consider trying debate if you:
 
 <li>Want to make new friends</li>
-<li>Love learning new things about the world</li>
-<li>Enjoy listening to video essays, comedy, and interesting ideas</li>
+<li>Love learning new things about the world, and want a place to apply them</li>
+<li>Enjoy video essays, the news, philosophy, comedy, and other interesting ideas</li>
 <li>Have a competitive streak!</li>
 <li>Want to feel seen or heard</li>
 <li>Crave self improvement / the grind</li>
 <li>Want to (sometimes) fly abroad to tournaments for free!!!</li>
 
-## I don't want to get heated...
-When picturing debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! You can't be a good debater without the ability to listen to others, to be curious about people who are different from you, and to be willing to understand new perspectives. This is especially so, since you don't get to choose the side you debate in a round.
+Debate is incredibly rewarding, because it gives back the effort you put in - whether it's hours and hours, or just a session or two per term. 
 
-Batey knows how scary public speaking can be! It takes a lot of courage to put one's self out there, and debates can create much potential for both fun and anxiety. The people in our club take great care in making sure everyone is comfy playing our favorite game together. We hope you use debate skills in the real world with that very same care; to be mindful of the effects our words have on others.
+## I don't want to get heated...
+When picturing debate, it's easy to imagine a bossy courtroom full of people who are shouting, confrontational, and even mean. In practice, this is rarely the case! You can't be a good debater without the ability to listen to others, to be curious about people who are different from you, and to be willing to understand new perspectives. This is especially true, because you don't get to choose the side you debate in a round.
+
+Batey knows how nervous public speaking can be! It takes a lot of courage to put one's self out there, and debates create much potential for both fun and anxiety. That's why the people in our club take great care in making sure everyone is comfy playing our favorite game together. We hope you use debate skills in the real world with that very same mindfulness for others.
 
 That's not to say there isn't room for heat in debate club! It's not unusual to hear quick quips, funny soundbites, or the occasional trash talk when we really get to know each other. There are plenty of ways for a passionate soul to spit fire, and even thrive in a place like ours - but first and foremost comes everyone's safety and well-being. That's a Batey promise!
 
@@ -34,22 +36,21 @@ If you've read this far, **you** might be the type of person we're describing. W
 
 ## I don't want to sound stupid in front of other people.
 
-Batey's unsure if it helps or not, but this is a problem people face even when they've debated for many years - even Batey. But it's okay, because practice builds confidence, and fear shouldn't stop us from having fun anyways! If speaking in a round is uncomfortable, everyone who comes to our session is free to listen in, or come and go as they please.
+Ah, this is a problem experienced debaters face too - even Batey. But it's okay, cuz nobody's actually going to see it that way... we're too busy worrying about ourselves! 
 
-That said, you won't sound stupid! Especially when we welcome people of all skill levels. We've been there before. And nobody can know everything - losing is a part of the game. And it's fun listening to other smart people talking about things, to learn for next time.
+In a real round, you'll have a bunch of teammates to help you write your speech and make it as good as possible. But even if it's not, messing up is normal for debaters of all skill levels, so we try to be supportive and pick each other up. Also, judging, observing, and simply supporting your friends are all valid ways to hang out if debating's not your speed.
 
-And even if you don't like the way you speak - you sure won't feel like that for long! We've got lessons and drills and personalized feedback from experienced members to help train your speaking and thinking skills at your own pace - all for free! It's honestly a really sweet deal.
+That said, Batey is guessing that someone worried about sounding silly, might want to sound smarter? Our club has lessons and drills and individual feedback (yes, one-on-one!) to help train your speaking & thinking skills at your own pace. It's like being too shy to go to the gym, when really it's the place to go to become more confident!
 
 ## It sounds kind of cool, but I'm too lazy...
 
-You know what? that's fair lol. But we can't help you there! Some people want something fun to do after class. It's true that you need a lot of work to become super good at debate, but you don't have to do that to be part of our club, or enjoy debating itself, or reap the rewards of the community. 
+You know what? that's fair lol. But we can't help you there! Debate Club is meant to appeal to everyone, from the die-hard tournament addicts to people who just want a place to chill out after class. You don't have to do hours of practice to be part of our club, or enjoy debating itself, or reap the rewards of the community. 
 
 Getting better at debate is great! It brings structure. It's addicting. People like the grind. You'll feel yourself improving and becoming smarter and funnier. You get to actually use the information you learn in school instead of memorizing for the test. Batey has probably learned more for the sake of debate than all uni classes put together.
 
 ## Okay okay, you got me! How can I participate if I'm interested?
 
-Debate Club is a uniquely active club in that we meet multiple times a week - usually once on Tuesday, and once on Wednesday. Come drop by and say hello! We have events like collaborations with Film Club, we go to tournaments, and have our Debate Showdown once a term, open for all skill levels! We also have a Discord where anybody can message or chat, and an Instagram where there are mini-activities and prizes.
+Debate Club is uniquely active, because we meet multiple times a week - usually once on Tuesday, and once on Wednesday from 4-6. Come drop by and say hello! We have events like collaborations with Film Club, we go to tournaments, and have our Debate Showdown once a term, open for all skill levels! We also have a Discord where anybody can message or chat, and an Instagram where there are mini-activities and prizes.
  
-[^1]: There are surprisingly many instances of our club members dating??? If that's a selling point???
 
 
