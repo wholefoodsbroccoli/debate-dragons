@@ -16,6 +16,10 @@ This section guides readers through a debate, from start to finish. Rather than 
 
 ## Page Contents
 [Before the Debate](#section-1)
+[The Round Begins!](#section-2)
+[Giving Speeches](#section-3)
+[The Judge](#section-4)
+[After the Round](#section-5)
 
 ## Before the Debate {#section-1}
 There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' - and the Opposition side, who is against it. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic.
@@ -26,7 +30,7 @@ In a real tournament, debaters don't get to choose their bench, nor do they get 
 
 The debaters will be given some time to prepare, and when they're finished, go to the debate room to begin the round. There are no ties in any debate format, meaning every round has a decisive result.
 
-## The Round Begins!
+## The Round Begins! {#section-2}
 
 ### The Motion
 Each motion in the debate has a **keyword.** The keyword shows what teams must prove to win, and which arguments are allowed by the rules.
@@ -50,7 +54,7 @@ How do teams actually use this time?
 
 Debaters are not allowed to use the internet or AI to prepare. That would spoil the fun! And may not be as helpful as it sounds. Because of this, speakers generally must take notes on paper in real-life tournaments.
 
-## Giving Speeches
+## Giving Speeches {#section-3}
 When prep time concludes, the debaters go back to the debate room, where the judge does roll call and begins the debate.
 
 Each team sends members one-by-one to give a speech up to 7 minutes long. The Government team begins, and the Opposition goes next, zig-zagging according to the diagram below. The debate ends when the last speaker concludes.
@@ -59,7 +63,7 @@ Normally debaters can't talk during opposing speeches, except for Points of Info
 
 As their turn to speak approaches, debaters scramble to write what they're going to say, while simultaneously taking notes on their opponents and trying to counter their speech on the fly. It's not unusual to see debaters cracking jokes, getting sassy, cheering during speeches, pacing around the podium and generally freaking out in the best possible ways!
 
-## The Judge
+## The Judge {#section-4}
 After the debate, the judge takes time to deliberate. This is when they decide the verdict and prepare their 'oral adjudication,' where they explain the reason for their decision to the debaters afterwards. Sometimes there are 'panels' of multiple judges, led by a 'chair,' the chief judge who coordinates them. 
 
 The judges will go through their notes, sort through the 'clashes,' or main issues in the debate, and then discuss which side won the more important clashes. Generally, teams who make sure their arguments are **more likely** and **more important** than the other side have a higher chance of winning.
@@ -85,7 +89,7 @@ For those interested in becoming judges, you'll find it can be a uniquely collab
 
 </details>
 
-## After the Debate
+## After the Debate {#section-5}
 The teams shake hands, and can stay to ask the judges for personal feedback and questions about the round. The judge will give a few tips for how to improve next time, and then everybody leaves the debate room! 
 
 In a tournament, the judges would fill out a 'ballot' that tells the result of the debate, and gives each person a speaker score. The debaters would fill out a feedback form for the judges, and give them a score as well.
