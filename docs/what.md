@@ -42,11 +42,11 @@ Some debate formats let teams pick the motion they want to debate. During topic 
 After the teams and their sides are confirmed, the motion topic is released, and prep time begins. Each team gets 15 to 30 minutes of private time to strategize and ready their case. The Government team typically stays within the debate room to plan, while the Opposition team prepares outside.
 
 How do teams actually use this time?
-<li>A few minutes of silent time to come up with original ideas</li>
-<li>Anticipating what the opponent will say, and how to respond to it</li>
-<li>Fleshing out the case with reasons their arguments are **true** and **important**</li>
-<li>Adding details like storytelling, real-world examples, and humor to stick out to the judge</li>
-<li>'Setting up' the debate with definitions, helpful details about the world, and why they solve a big problem.</li>
+- A few minutes of silent time to come up with original ideas
+- Anticipating what the opponent will say, and how to respond to it
+- Fleshing out the case with reasons their arguments are **true** and **important**
+- Adding details like storytelling, real-world examples, and humor to stick out to the judge
+- 'Setting up' the debate with definitions, helpful details about the world, and why they solve a big problem.
 
 Debaters are not allowed to use the internet or AI to prepare. That would spoil the fun! And may not be as helpful as it sounds. Because of this, speakers generally must take notes on paper in real-life tournaments.
 
