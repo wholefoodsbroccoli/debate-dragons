@@ -9,13 +9,13 @@ This section is meant for people who are on the fence about debate, or have conc
 
 Batey loves debate, and wants to show how much fun it can be! Consider trying debate if you:
 
- <li>Want to make new friends</li>
- <li>Love learning new things about the world, and want a place to apply them</li>
- <li>Enjoy video essays, the news, philosophy, comedy, and other interesting ideas</li>
- <li>Have a competitive streak!</li>
- <li>Want to feel seen or heard</li>
- <li>Crave self improvement / the grind</li>
- <li>Want to (sometimes) fly abroad to tournaments for free!!!</li>
+- Want to make new friends
+- Love learning new things about the world, and want a place to apply them
+- Enjoy video essays, the news, philosophy, comedy, and other interesting ideas
+- Have a competitive streak!
+- Want to feel seen or heard
+- Crave self improvement / the grind
+- Want to (sometimes) fly abroad to tournaments for free!!!
 
 Debate is incredibly rewarding, because it gives back the effort you put in - whether it's hours and hours, or just a session or two per term. 
 
