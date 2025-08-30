@@ -16,9 +16,13 @@ This section guides readers through a debate, from start to finish. Rather than 
 
 ## Page Contents
 [Before the Debate](#section-1)
+
 [The Round Begins!](#section-2)
+
 [Giving Speeches](#section-3)
+
 [The Judge](#section-4)
+
 [After the Round](#section-5)
 
 ## Before the Debate {#section-1}
