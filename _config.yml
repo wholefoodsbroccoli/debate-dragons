@@ -7,7 +7,12 @@ kramdown:
   auto_ids: true
   toc_levels: 1..3
 remote_theme: just-the-docs/just-the-docs@main
-  
+defaults:
+  - scope:
+      path: ""
+    values:
+      head_custom: true
+
 url: https://just-the-docs.github.io
 
 #aux_links:
