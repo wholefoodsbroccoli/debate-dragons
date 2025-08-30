@@ -15,11 +15,11 @@ This section guides readers through a debate, from start to finish. Rather than 
 {:toc}
 
 ## Page Contents
-[Before the Debate](#section-1) 
-[The Round Begins!](#section-2) 
-[Giving Speeches](#section-3) 
-[The Judge](#section-4) 
-[After the Round](#section-5) 
+[Before the Debate](#section-1)  
+[The Round Begins!](#section-2)  
+[Giving Speeches](#section-3)  
+[The Judge](#section-4)  
+[After the Round](#section-5)  
 
 ## Before the Debate {#section-1}
 There are two 'benches' in a debate: the Government side, who is supporting the debate 'motion' - and the Opposition side, who is against it. Each team knows which bench they are on (Gov or Opp) before the round starts, but they don't know the topic.
